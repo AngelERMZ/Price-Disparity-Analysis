@@ -131,9 +131,8 @@ of the market, but does not act as a highly accurate predictor of their price
 by not including a broader amount of active ingredients and more variables such as 
 "Brand perception".
 - Although Venezuela's results manifest the confirmation of the findings made by
- Signaling theory (Kirimani and Rao, 2000), not retrieving information from other countries
+ Signaling theory (Kirmani & Rao, 2000), not retrieving information from other countries
 of the region restricts the applicability of its results internationally.
-
 
 ---
 
